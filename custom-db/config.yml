@@ -1,0 +1,9 @@
+root-path: /media/maprf-analysis/bbo
+frame-size:
+  nx: 120
+  ny: 68
+screen-dst: 30
+screen-size:
+  nx: 106
+  ny: 60
+
