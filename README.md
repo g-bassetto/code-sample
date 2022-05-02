@@ -4,6 +4,7 @@ This repo contains some code samples, organized as follows:
 
 * `custom-db` is a small pandas-based database I wrote to easily access and navigate through a dataset of ~700 electrophysiological recordings acquired under different experimental conditions.
 * `theano-filters` is a symbolic implementation of (linear or non-linear) filtering for time-series objects.
+* `tests` contains a series of tests written for the `maprf` package (which for the moment is still private).
 
 There is also a folder containing some jupyter notebooks, stored in html format.
 * The purpose of `0016-analysis-demo-Copy2` is to illustrate to a user how to perform an end-to-end analysis using the Bayesian inference framework I developed to identify the parameters of a model of neural activity (specifically, this is a model of a type of neurons we encounter early on in the visual system).
